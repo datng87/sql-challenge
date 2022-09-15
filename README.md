@@ -6,6 +6,7 @@ ERD:
 
 I did somes SQL queries to get some of the essential data. Finally, I used Python with SQLAlchemy library to connect the databases and create some charts using Python.
 
-![alt text](EmployeeSQL/plot result/avg_salaries_by_titles.png)
+
+<img src="EmployeeSQL/plot result/avg_salaries_by_titles.png" >
 
 ![alt text](EmployeeSQL/plot result/salaries_histogram.png)
