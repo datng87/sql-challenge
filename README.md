@@ -9,4 +9,5 @@ I did somes SQL queries to get some of the essential data. Finally, I used Pytho
 
 <img src="EmployeeSQL/plot result/avg_salaries_by_titles.png" >
 
-![alt text](EmployeeSQL/plot result/salaries_histogram.png)
+<img src="EmployeeSQL/plot result/salaries_histogram.png" >
+
